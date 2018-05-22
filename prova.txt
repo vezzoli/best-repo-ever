@@ -1,2 +1,3 @@
 forse funziona nella sincronizzazione
 22/05/2018 devo aggiungere una riga per testare la sincronizzazione
+22/05/2018 bis -> aggiungo una nuova gestione a partire dal repository locale
